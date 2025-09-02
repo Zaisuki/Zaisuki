@@ -44,5 +44,8 @@
   <img src="https://via.placeholder.com/60x1/FFFFFF/FFFFFF" alt="" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaisuki&theme=radical" alt="GitHub Streak" height="160" style="border:none;" />
 </div>
-
+<hr>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zaisuki.Zaisuki&left_color=lightpink&right_color=hotpink"  />
+</div>
 
