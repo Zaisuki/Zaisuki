@@ -48,9 +48,9 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zaisuki.Zaisuki&left_color=lightpink&right_color=hotpink"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zaisuki.Zaisuki&left_color=transparent&right_color=transparent" />
 </div>
+
 
 
