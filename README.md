@@ -1,9 +1,10 @@
+<div align="center">
 
+<p><em>Petals fall on stone as quiet flames illuminate the journey ahead</em></p>
 
+<hr>
 
-<p align="center">Petals fall on stone as quiet flames illuminate the journey ahead</p>
-
-###
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaisuki/Zaisuki/output/pacman-contribution-graph-dark.svg">
@@ -44,4 +45,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zaisuki.Zaisuki&left_color=lightpink&right_color=hotpink"  />
 </div>
+
 
