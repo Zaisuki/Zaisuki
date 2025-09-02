@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaisuki&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" height="160" style="border:none;" />
-  <img src="https://via.placeholder.com/60x1/FFFFFF/FFFFFF" alt="" /> <!-- spacer -->
+  <img src="https://via.placeholder.com/60x1/FFFFFF/FFFFFF" alt="" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaisuki&theme=radical" alt="GitHub Streak" height="160" style="border:none;" />
 </div>
 
