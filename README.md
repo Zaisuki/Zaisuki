@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://fontmeme.com/permalink/2512a03d8f3b3bdb2ff6f0f0f8b1c9c1.png" alt="Moshi moshi, Zaisuki Da yo" border="0">
-</p>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zaisuki.Zaisuki&left_color=lightpink&right_color=hotpink"  />
 </div>
@@ -9,15 +7,14 @@
 
 ###
 
-<div align="center">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Zaisuki/Zaisuki/output/pacman-contribution-graph.svg">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaisuki/Zaisuki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaisuki/Zaisuki/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zaisuki/Zaisuki/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaisuki&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=true" height="100" alt="languages graph"  />
-</div>
 
 ###
 
